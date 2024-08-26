@@ -1,3 +1,8 @@
-Welcome!
-This repository provides a glimpse into the Speech Analysis Software I have developed. While I continue to work on the application, I am unable to share the complete code at this time.
+🎙️ Welcome to the SPAN Repository!
+Hello there! 👋
 
+Thank you for stopping by. This repository offers a sneak peek into SPAN (Speech Analysis Software), a project I've been passionately working on. 🚀 While the software is still a work in progress, I'm excited to share a glimpse of what’s being developed.
+
+🛠️ Current Status
+Development Status: Active and ongoing ⏳
+Note: The complete code isn't available yet, as I'm continuously improving and expanding SPAN. Stay tuned for updates!
